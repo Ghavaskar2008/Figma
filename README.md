@@ -77,7 +77,7 @@ page 4
 ```
 
 ## OUTPUT:
-![alt text](<WhatsApp Image 2025-10-05 at 16.11.12_289c791b.jpg>)
+<img width="1103" height="670" alt="Screenshot 2025-10-16 101237" src="https://github.com/user-attachments/assets/f3414ae0-07cd-442f-a34e-f3af950127eb" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
